@@ -1,0 +1,25 @@
+.courses-list {
+  list-style-type: none;
+}
+.courses-list-container {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 250px;
+  margin-right: 20px;
+  margin-bottom: 55px;
+  cursor: pointer;
+}
+.course-logo {
+  height: 75px;
+}
+.course-heading {
+  font-weight: bold;
+  font-size: 25px;
+}
+.link {
+  text-decoration: none;
+  color: #1e293b;
+}
